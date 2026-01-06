@@ -1,0 +1,3 @@
+git remote add origin https://github.com/USERNAME/findom-backend.git
+git branch -M main
+git push -u origin main
